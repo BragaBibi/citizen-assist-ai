@@ -76,6 +76,7 @@ A base de conhecimento é armazenada no arquivo `data/base_conhecimento.json`.
 O projeto possui 10 orientações distribuídas em três categorias:
 
 ### Trabalho e Renda
+
 - Carteira de Trabalho Digital.
 - Seguro-Desemprego.
 - FGTS.
@@ -83,11 +84,13 @@ O projeto possui 10 orientações distribuídas em três categorias:
 - CNIS.
 
 ### Documentação
+
 - Consulta da situação do CPF.
 - Comprovante de CPF.
 - Primeiro título eleitoral.
 
 ### Serviços Digitais
+
 - Criação de conta Gov.br.
 - Aumento do nível da conta Gov.br.
 
@@ -98,12 +101,15 @@ Cada orientação possui identificador, categoria, título, palavras-chave, resp
 O projeto foi desenvolvido utilizando três classes principais:
 
 ### Classe Orientacao
+
 Representa cada orientação disponível na base de conhecimento e possui o método `exibir()`, responsável por apresentar as informações ao usuário.
 
 ### Classe BaseConhecimento
+
 Responsável por carregar os dados do arquivo JSON, normalizar textos, identificar categorias e realizar as buscas.
 
 ### Classe Assistente
+
 Controla a interação com o usuário, apresenta o menu, registra os atendimentos, calcula indicadores e exporta os dados para CSV.
 
 ## 10. Sistema de busca
@@ -112,8 +118,8 @@ O sistema utiliza uma busca baseada em palavras-chave e pontuação.
 
 A pontuação funciona da seguinte maneira:
 
-- Palavra-chave encontrada na pergunta: +3 pontos.
-- Palavra da pergunta com quatro ou mais letras encontrada no título: +1 ponto.
+- Palavra-chave encontrada na pergunta: **+3 pontos**.
+- Palavra da pergunta com quatro ou mais letras encontrada no título: **+1 ponto**.
 
 A classificação dos resultados é:
 
@@ -166,7 +172,7 @@ O menu principal será apresentado no terminal.
 
 ## 14. Testes realizados
 
-Foram realizados testes funcionais e testes com usuários para avaliar o funcionamento, a facilidade de utilização e a qualidade das orientações fornecidas pelo Citizen Assist AI.
+Foram realizados testes funcionais e testes com usuários para avaliar o funcionamento e a qualidade das orientações fornecidas pelo Citizen Assist AI.
 
 ### 14.1 Testes funcionais
 
