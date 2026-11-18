@@ -1,0 +1,113 @@
+
+[
+  {
+    "id": 1,
+    "categoria": "Trabalho e Renda",
+    "titulo": "Como acessar a Carteira de Trabalho Digital",
+    "palavras_chave": ["carteira de trabalho", "ctps digital", "trabalho digital", "carteira profissional"],
+    "resposta": "A Carteira de Trabalho Digital pode ser acessada gratuitamente pelo aplicativo oficial ou pelo portal Gov.br. Utilize sua conta Gov.br para entrar e consultar seus contratos de trabalho.",
+    "documentos": ["CPF", "Conta Gov.br"],
+    "onde": "Aplicativo Carteira de Trabalho Digital ou portal Gov.br",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/carteira-de-trabalho/perguntas-frequentes-carteira-de-trabalho-digital/",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 2,
+    "categoria": "Trabalho e Renda",
+    "titulo": "Como solicitar o Seguro-Desemprego",
+    "palavras_chave": ["seguro desemprego", "desemprego", "beneficio desemprego", "solicitar seguro"],
+    "resposta": "O Seguro-Desemprego pode ser solicitado pelo Portal de Serviços do Governo Federal ou pelo aplicativo Carteira de Trabalho Digital. O trabalhador precisa atender aos requisitos legais para receber o benefício.",
+    "documentos": ["Documento do requerimento do Seguro-Desemprego fornecido pelo empregador", "CPF"],
+    "onde": "Portal Gov.br, aplicativo Carteira de Trabalho Digital ou atendimento pelo telefone 158",
+    "fonte": "https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 3,
+    "categoria": "Trabalho e Renda",
+    "titulo": "Como consultar o saldo do FGTS",
+    "palavras_chave": ["fgts", "saldo fgts", "fundo de garantia", "extrato fgts"],
+    "resposta": "O trabalhador pode consultar o saldo e o histórico de depósitos do FGTS gratuitamente pelo aplicativo oficial FGTS. Também é possível acompanhar as movimentações pelos canais da Caixa Econômica Federal.",
+    "documentos": ["Dados de acesso ao aplicativo FGTS"],
+    "onde": "Aplicativo FGTS ou canais oficiais da Caixa Econômica Federal",
+    "fonte": "https://www.caixa.gov.br/beneficios-trabalhador/fgts/extrato-FGTS/Paginas/default.aspx",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 4,
+    "categoria": "Trabalho e Renda",
+    "titulo": "Como funciona o programa Jovem Aprendiz",
+    "palavras_chave": ["jovem aprendiz", "aprendiz", "primeiro emprego", "aprendizagem profissional"],
+    "resposta": "O programa de aprendizagem profissional permite que jovens entre 14 anos completos e 24 anos incompletos tenham formação teórica e experiência prática de trabalho. O contrato garante direitos trabalhistas, como salário, férias, décimo terceiro e FGTS.",
+    "documentos": ["Documentos solicitados pela empresa contratante e pela entidade formadora", "Comprovante de matrícula escolar, quando aplicável"],
+    "onde": "Empresas contratantes e entidades formadoras habilitadas, como instituições do Sistema S",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/julho/aprendizagem-profissional-regras-direitos-e-funcionamento-do-contrato-de-aprendizagem",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 5,
+    "categoria": "Trabalho e Renda",
+    "titulo": "Como consultar o Extrato de Contribuição do INSS (CNIS)",
+    "palavras_chave": ["inss", "cnis", "extrato contribuicao", "contribuicoes previdenciarias"],
+    "resposta": "O Extrato de Contribuição, também chamado CNIS, apresenta os vínculos de trabalho, remunerações e contribuições previdenciárias registrados. A consulta pode ser feita pela internet, sem necessidade de comparecer a uma agência.",
+    "documentos": ["CPF", "Conta Gov.br"],
+    "onde": "Portal ou aplicativo Meu INSS",
+    "fonte": "https://www.gov.br/inss/pt-br/centrais-de-conteudo/publicacoes/outras/carta-de-servicos-instituto-nacional-do-seguro-social-2025-03-14-16-30-42-164166.pdf",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 6,
+    "categoria": "Documentação",
+    "titulo": "Como consultar a situação do CPF",
+    "palavras_chave": ["cpf", "consultar cpf", "situacao cadastral", "receita federal"],
+    "resposta": "A situação cadastral do CPF pode ser consultada gratuitamente no site oficial da Receita Federal. O serviço permite verificar se o cadastro está regular ou apresenta alguma pendência.",
+    "documentos": ["Número do CPF", "Data de nascimento"],
+    "onde": "Portal oficial da Receita Federal",
+    "fonte": "https://www.gov.br/receitafederal/pt-br/assuntos/meu-cpf",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 7,
+    "categoria": "Documentação",
+    "titulo": "Como obter o comprovante de inscrição no CPF",
+    "palavras_chave": ["comprovante cpf", "cartao cpf", "segunda via cpf", "inscricao cpf"],
+    "resposta": "O comprovante de inscrição no CPF pode ser obtido pela internet, no portal oficial da Receita Federal. O cartão físico de CPF em plástico não é mais emitido. O comprovante digital ou impresso possui validade.",
+    "documentos": ["Dados pessoais solicitados pelo serviço oficial"],
+    "onde": "Portal de serviços da Receita Federal",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-cartao-de-cpf",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 8,
+    "categoria": "Documentação",
+    "titulo": "Como tirar o primeiro título de eleitor",
+    "palavras_chave": ["titulo de eleitor", "primeiro titulo", "titulo eleitoral", "justica eleitoral"],
+    "resposta": "O primeiro título de eleitor pode ser solicitado pelo Autoatendimento Eleitoral do TSE ou presencialmente em uma unidade da Justiça Eleitoral. A solicitação pode ser feita a partir dos 15 anos, mas o voto somente é permitido a partir dos 16 anos.",
+    "documentos": ["Documento oficial de identificação", "Comprovante de residência", "Comprovante de quitação militar, quando exigido"],
+    "onde": "Portal do TSE, Autoatendimento Eleitoral ou cartório eleitoral",
+    "fonte": "https://www.tse.jus.br/servicos-eleitorais/servicos/carta-de-servicos-ao-eleitor",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 9,
+    "categoria": "Serviços Digitais",
+    "titulo": "Como criar uma conta Gov.br",
+    "palavras_chave": ["gov br", "criar conta gov", "cadastro digital", "acesso governo"],
+    "resposta": "A conta Gov.br permite acessar diversos serviços digitais do Governo Federal utilizando um único cadastro. A criação pode ser feita pelo site ou aplicativo oficial Gov.br, seguindo as etapas de identificação.",
+    "documentos": ["CPF", "Dados pessoais solicitados durante o cadastro"],
+    "onde": "Site oficial Gov.br ou aplicativo Gov.br",
+    "fonte": "https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 10,
+    "categoria": "Serviços Digitais",
+    "titulo": "Como aumentar o nível da conta Gov.br",
+    "palavras_chave": ["nivel gov", "conta prata", "conta ouro", "aumentar nivel gov"],
+    "resposta": "A conta Gov.br possui três níveis: bronze, prata e ouro. O nível pode ser aumentado por métodos de validação disponíveis na plataforma, como reconhecimento facial e validação por instituições financeiras credenciadas, conforme os requisitos de cada opção.",
+    "documentos": ["Conta Gov.br ativa", "Documento ou validação exigida pelo método escolhido"],
+    "onde": "Aplicativo ou portal oficial Gov.br",
+    "fonte": "https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/niveis-da-conta-govbr",
+    "verificado_em": "2026-11-17"
+  }
+]

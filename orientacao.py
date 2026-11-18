@@ -1,0 +1,41 @@
+
+class Orientacao:
+    def __init__(
+        self,
+        id,
+        categoria,
+        titulo,
+        palavras_chave,
+        resposta,
+        documentos,
+        onde,
+        fonte,
+        verificado_em
+    ):
+        self.id = id
+        self.categoria = categoria
+        self.titulo = titulo
+        self.palavras_chave = palavras_chave
+        self.resposta = resposta
+        self.documentos = documentos
+        self.onde = onde
+        self.fonte = fonte
+        self.verificado_em = verificado_em
+
+    def exibir(self):
+        print("\n" + "=" * 55)
+        print(f"{self.titulo} [{self.categoria}]")
+        print("=" * 55)
+
+        print(f"\n{self.resposta}")
+
+        print("\nDocumentos necessários:")
+        for documento in self.documentos:
+            print(f"- {documento}")
+
+        print(f"\nOnde: {self.onde}")
+        print(f"Fonte: {self.fonte}")
+        print(f"Verificado em: {self.verificado_em}")
+
+        print("\nAviso: este assistente NÃO é um canal oficial.")
+        print("=" * 55)
