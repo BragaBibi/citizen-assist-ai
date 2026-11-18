@@ -254,7 +254,7 @@ As fontes específicas de cada orientação estão disponíveis no arquivo `data
 
 **GitHub:** https://github.com/BragaBibi/citizen-assist-ai
 
-**Vídeo de apresentação:** [Inserir link do YouTube após a gravação]
+**Vídeo de apresentação:** [https://youtu.be/EXA9JuNSmYo](https://youtu.be/EXA9JuNSmYo)
 
 ---
 
